@@ -1,0 +1,15 @@
+[submodule "Git-Training---Tanishq-"]
+	path = Git-Training---Tanishq-
+	url = https://github.com/Tanishq2607/Git-Training---Tanishq-
+[submodule "ReactAssignment"]
+	path = ReactAssignment
+	url = https://github.com/Tanishq2607/ReactAssignment
+[submodule "ReactAssignment2_ref"]
+	path = ReactAssignment2_ref
+	url = https://github.com/Tanishq2607/ReactAssignment2_ref
+[submodule "API_Assignment"]
+	path = API_Assignment
+	url = https://github.com/Tanishq2607/API_Assignment
+[submodule "Tanstack_Assignment"]
+	path = Tanstack_Assignment
+	url = https://github.com/Tanishq2607/Tanstack_Assignment
