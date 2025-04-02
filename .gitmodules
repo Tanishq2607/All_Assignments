@@ -13,3 +13,6 @@
 [submodule "Tanstack_Assignment"]
 	path = Tanstack_Assignment
 	url = https://github.com/Tanishq2607/Tanstack_Assignment
+[submodule "Debug_Assignment"]
+	path = Debug_Assignment
+	url = https://github.com/Tanishq2607/Debug_Assignment
