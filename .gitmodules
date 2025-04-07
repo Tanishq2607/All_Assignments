@@ -16,3 +16,6 @@
 [submodule "Debug_Assignment"]
 	path = Debug_Assignment
 	url = https://github.com/Tanishq2607/Debug_Assignment
+[submodule "07_Weekend_Assignment.git"]
+	path = 07_Weekend_Assignment.git
+	url = git@github.com:Tanishq2607/07_Weekend_Assignment.git
