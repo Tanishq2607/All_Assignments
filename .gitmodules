@@ -19,3 +19,12 @@
 [submodule "07_Weekend_Assignment.git"]
 	path = 07_Weekend_Assignment.git
 	url = git@github.com:Tanishq2607/07_Weekend_Assignment.git
+[submodule "08_CustomHooks_Assignment_Level_1.git"]
+	path = 08_CustomHooks_Assignment_Level_1.git
+	url = git@github.com:Tanishq2607/08_CustomHooks_Assignment_Level_1.git
+[submodule "08_CustomHooks_Assignment_level2.git"]
+	path = 08_CustomHooks_Assignment_level2.git
+	url = git@github.com:Tanishq2607/08_CustomHooks_Assignment_level2.git
+[submodule "09_Redux_Assignment_01.git"]
+	path = 09_Redux_Assignment_01.git
+	url = git@github.com:Tanishq2607/09_Redux_Assignment_01.git
