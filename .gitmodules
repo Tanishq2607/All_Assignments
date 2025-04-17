@@ -28,3 +28,6 @@
 [submodule "09_Redux_Assignment_01.git"]
 	path = 09_Redux_Assignment_01.git
 	url = git@github.com:Tanishq2607/09_Redux_Assignment_01.git
+[submodule "09_Redux_Assignment_2.git"]
+	path = 09_Redux_Assignment_2.git
+	url = git@github.com:Tanishq2607/09_Redux_Assignment_2.git
