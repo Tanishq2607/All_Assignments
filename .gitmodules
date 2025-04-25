@@ -37,3 +37,6 @@
 [submodule "10_Assignment_useMemoHook.git"]
 	path = 10_Assignment_useMemoHook.git
 	url = git@github.com:Tanishq2607/10_Assignment_useMemoHook.git
+[submodule "nextJS_PageRouter.git"]
+	path = nextJS_PageRouter.git
+	url = git@github.com:Tanishq2607/nextJS_PageRouter.git
