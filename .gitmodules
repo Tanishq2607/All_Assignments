@@ -34,3 +34,6 @@
 [submodule "09_Redux_Assignment_03.git"]
 	path = 09_Redux_Assignment_03.git
 	url = git@github.com:Tanishq2607/09_Redux_Assignment_03.git
+[submodule "10_Assignment_useMemoHook.git"]
+	path = 10_Assignment_useMemoHook.git
+	url = git@github.com:Tanishq2607/10_Assignment_useMemoHook.git
