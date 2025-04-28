@@ -40,3 +40,5 @@
 [submodule "nextJS_PageRouter.git"]
 	path = nextJS_PageRouter.git
 	url = git@github.com:Tanishq2607/nextJS_PageRouter.git
+[submodule "nextJS_PageRouter"]
+	url = git@github.com:Tanishq2607/nextJS_PageRouter.git
