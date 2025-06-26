@@ -42,3 +42,12 @@
 	url = git@github.com:Tanishq2607/nextJS_PageRouter.git
 [submodule "nextJS_PageRouter"]
 	url = git@github.com:Tanishq2607/nextJS_PageRouter.git
+[submodule "HTML_FORM_ASSIGNMENT"]
+	path = HTML_FORM_ASSIGNMENT
+	url = git@github.com:Tanishq2607/HTML_FORM_ASSIGNMENT.git
+[submodule "HTML_TABLE_ASSIGNMENT"]
+	path = HTML_TABLE_ASSIGNMENT
+	url = git@github.com:Tanishq2607/HTML_TABLE_ASSIGNMENT.git
+[submodule "Tailwind_CSS_Assignment"]
+	path = Tailwind_CSS_Assignment
+	url = git@github.com:Tanishq2607/Tailwind_CSS_Assignment.git
