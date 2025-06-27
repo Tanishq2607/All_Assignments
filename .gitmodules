@@ -51,3 +51,6 @@
 [submodule "Tailwind_CSS_Assignment"]
 	path = Tailwind_CSS_Assignment
 	url = git@github.com:Tanishq2607/Tailwind_CSS_Assignment.git
+[submodule "Tailwind_CSS_LandingPage_Assignment"]
+	path = Tailwind_CSS_LandingPage_Assignment
+	url = git@github.com:Tanishq2607/Tailwind_CSS_LandingPage_Assignment.git
